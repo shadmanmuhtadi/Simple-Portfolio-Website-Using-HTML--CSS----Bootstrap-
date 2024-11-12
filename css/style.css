@@ -1,0 +1,87 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navbar-style {
+    display: flex;
+    justify-content: space-between;
+    padding: 25.33px 85.33px;
+    font-size: 21.33px;
+}
+
+.second-section {
+    display: flex;
+    justify-content: space-around;
+    background-color: #F5FCFF;
+}
+
+.card-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fourth-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 133px 85px 133px 85px;
+}
+
+.fifth-section {
+    padding: 0px 85.33px 149.33px 85.33px;
+}
+
+.visit-my-dribble-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.recent-project-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.customer-review-section {
+    display: flex;
+    justify-content:flex-start;
+}
+
+.customer-testimonials-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-section {
+    padding: 110.67px 85.33px 106.67px 85.33px;
+    background-color: #F5FCFF;
+}
+
+.footer-page-section {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+
+.footer-section-image {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-final-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-container {
+    margin: 50px auto;
+    padding: 20px;
+}
+.btn-submit {
+    background-color: #a259ff;
+    color: #fff;
+}
+.btn-submit {
+    background-color: #5E3BEE;
+    
+}
